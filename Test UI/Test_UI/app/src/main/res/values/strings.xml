@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test_UI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Option2:UI App</string>
+    <string name="nav_header_subtitle">Elements and Items </string>
+    <string name="nav_header_desc">Option2:UI App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Element1</string>
+    <string name="menu_gallery">Element2</string>
+    <string name="menu_slideshow">Element3</string>
+</resources>
